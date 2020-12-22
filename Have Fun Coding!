@@ -1,0 +1,25 @@
+https://hackertyper.net/
+
+open up the terminal (cmd + 'space' key and type "terminal") and input this code:
+  telnet towel.blinkenlights.nl
+have fun watching!
+
+https://www.codecademy.com/courses/learn-html/lessons/intro-to-html/exercises/intro
+
+accessing more of your mac/pc: hidden files and password protect
+- MAC
+  open macintosh hd
+  hold down cmd + shift + .
+- PC
+  open file explorer (yellow folder icon in taskbar)
+  on the top bar, select:
+    view -> options -> change folder and search options
+  there should be another view tab
+  in advanced settings, select "show hidden files, folders, and drives"
+  apply/click "OK"
+*DISCLAIMER - these files are hidden to prevent you from accidentally deleting files/folders integral to the unctionality of the machine
+              while a powerful tool, this should be used wisely
+              having access to hidden files and file extensions however allows you the power to not only organise files in more depth, but also
+              access other functionalities, such as permanently wiping files that are taking up too much space from your "hidden" storage, or
+              password protect/encrypt files or even entire folders
+              
